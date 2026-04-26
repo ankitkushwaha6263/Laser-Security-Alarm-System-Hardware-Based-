@@ -48,4 +48,4 @@ The circuit operates on the principle of a **Voltage Divider** and **Transistor 
 ---
 
 ## 📸 Circuit Diagram
-in circiut folder
+in image folder
